@@ -99,7 +99,7 @@ Data-Structures-CPP/
 ---
 
 ## Author
-**Nada Khaled**  
-Software Engineering & Computer Science Student
+**Nada Al-Eaqrab**  
+Software Engineering & Computer Science 
 
 If you find this repository useful, feel free to give it a ⭐
